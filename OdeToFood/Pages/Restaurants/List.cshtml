@@ -1,0 +1,27 @@
+@page
+@model ListModel
+@{
+    ViewData["Title"] = "Restaurants";
+}
+
+<form method ="get">
+    <div class="form-group">
+        <input type="search" class="form-control" value="" name="searchTerm" />
+        <span class="input-group-btn">
+            <button class="btn btn-dark">Search</button>
+        </span>
+
+    </div>
+</form>
+<table class="table">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.CuisineType</td>
+        </tr>
+    }
+</table>
+
+<h2>Restaurants</h2>
