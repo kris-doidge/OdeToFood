@@ -1,0 +1,9 @@
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\bin\Debug\netcoreapp2.1\OdeToFood.Domain.deps.json
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\bin\Debug\netcoreapp2.1\OdeToFood.Domain.dll
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\bin\Debug\netcoreapp2.1\OdeToFood.Domain.pdb
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.csprojAssemblyReference.cache
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.AssemblyInfoInputs.cache
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.AssemblyInfo.cs
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.dll
+C:\Users\kdoid\Documents\PluralSight\OdeToFood\OdeToFood.Domain\obj\Debug\netcoreapp2.1\OdeToFood.Domain.pdb
