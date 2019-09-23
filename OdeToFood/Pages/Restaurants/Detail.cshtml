@@ -1,0 +1,23 @@
+@page "{id:int?}"
+@model DetailModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    Id : @Model.Restaurant.Id
+</div>
+<div>
+    Name : @Model.Restaurant.Name
+</div>
+<div>
+    Location : @Model.Restaurant.Location
+</div>
+<div>
+    Cuisine Type : @Model.Restaurant.CuisineType
+</div>
+
+<a asp-page="./List" class="btn btn-dark">Return to all restaurants</a>
