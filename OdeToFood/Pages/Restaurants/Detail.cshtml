@@ -20,4 +20,8 @@
     Cuisine Type : @Model.Restaurant.CuisineType
 </div>
 
+@if (Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div>
+}
 <a asp-page="./List" class="btn btn-dark">Return to all restaurants</a>
